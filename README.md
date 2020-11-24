@@ -9,3 +9,5 @@ Ekkora forgalmat egy NGINX webszerver lazán ki kell tudjon szolgálni egyetlen 
 Tesztelésre saját webszervert használtunk: 1 vCPU, 1 GB RAM, 25 GB SSD. NGINX webszerver PHP-FPM társaságában.
 
 http://selenium.fabiangabor.com/
+
+Teszt eredmények: https://github.com/FabianGabor/Selenium/issues/1
